@@ -1,0 +1,79 @@
+{ "tournaments" : [
+    {
+        "name":"Save Net Neutrality!",
+        "slug":"save-net-neutrality-1",
+        "date":"December 14th, 2017",
+        "schedule":"December 14th, 2017\nFCC Vote",
+        "scheduleURL":""
+    },
+    {
+        "name":"War of the Gods: S2 Week #4",
+        "slug":"war-of-the-gods-s2-week-4",
+        "date":"December 10th, 2017",
+        "schedule":"5PM CST - Event Begins",
+        "scheduleURL":""
+    },
+    {
+        "name":"NEC 18",
+        "slug":"nec-18-1",
+        "date":"December 15th-17th, 2017",
+        "schedule":"",
+        "scheduleURL":"http://bigegaming.com/nec-18-schedule/"
+    },
+    {
+        "name":"Injustice 2: Winter Clash NA West 2",
+        "slug":"injustice-2-winter-clash-na-west-2",
+        "date":"December 16th-18th, 2017",
+        "schedule":"12/16\n3PM PST - Registration Ends\n4PM PST - Qualifier Starts\n12/18\n7PM PST - Top 8 Finals Begins",
+        "scheduleURL":""
+    },
+    {
+        "name":"Injustice 2: Winter Clash NA East 2",
+        "slug":"injustice-2-winter-clash-na-east-2",
+        "date":"December 16th-18th, 2017",
+        "schedule":"12/16\n3PM EST - Registration Ends\n4PM EST - Qualifier Starts\n12/19\n7PM EST - Top 8 Finals Begins",
+        "scheduleURL":""
+    },
+    {
+        "name":"Kumite in Tenneessee 2018",
+        "slug":"kumite-in-tennessee-2018",
+        "date":"January 5th-7th, 2018",
+        "schedule":"",
+        "scheduleURL":"https://docs.google.com/spreadsheets/d/1QB8JfwZouVy-tY6JVH7oYoLGEzeffjtVJgLWNTValIg/edit#gid=572521449"
+    },
+    {
+        "name":"Poi Poundaz",
+        "slug":"poi-poundaz",
+        "date":"January 6th, 2018",
+        "schedule":"Schedule is not available at this time",
+        "scheduleURL":""
+    },
+    {
+        "name":"StrongStyle European Qualifier",
+        "slug":"strongstyle-european-qualifier",
+        "date":"January 13th, 2018",
+        "schedule":"Schedule is not available at this time",
+        "scheduleURL":""
+    },
+    {
+        "name":"Genesis 5",
+        "slug":"genesis-5",
+        "date":"January 19th-21st, 2018",
+        "schedule":"Schedule is not available at this time",
+        "scheduleURL":""
+    },
+    {
+        "name":"Frosty Faustings X",
+        "slug":"frosty-faustings-x",
+        "date":"January 19th-20th, 2018",
+        "schedule":"",
+        "scheduleURL":"http://frostyfaustings.com/schedule/"
+    },
+    {
+        "name":"EVO Japan 2018",
+        "slug":"evojapan2018",
+        "date":"January 26th-28th, 2018",
+        "schedule":"Schedule is not available at this time",
+        "scheduleURL":""
+    }
+]}

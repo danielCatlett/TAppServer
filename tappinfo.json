@@ -7,10 +7,10 @@
         "scheduleURL":""
     },
     {
-        "name":"The Big House 7",
-        "slug":"the-big-house-7",
-        "date":"December 14th, 2017",
-        "schedule":"December 14th, 2017\nFCC Vote",
+        "name":"The Holiday Bash Smash Invitational",
+        "slug":"the-holiday-bash-smash-invitational",
+        "date":"December 15th-17th 2017",
+        "schedule":"11 AM PST start time each day (Friday, Saturday, Sunday)",
         "scheduleURL":""
     },
     {
@@ -39,6 +39,13 @@
         "slug":"injustice-2-winter-clash-na-east-2",
         "date":"December 16th-18th, 2017",
         "schedule":"12/16\n3PM EST - Registration Ends\n4PM EST - Qualifier Starts\n\n12/19\n7PM EST - Top 8 Finals Begins",
+        "scheduleURL":""
+    },
+    {
+        "name":"Winter Wonderball",
+        "slug":"winter-wonderball",
+        "date":"December 16th, 2017",
+        "schedule":"Schedule is not available at this time.",
         "scheduleURL":""
     },
     {
@@ -79,6 +86,13 @@
     {
         "name":"EVO Japan 2018",
         "slug":"evojapan2018",
+        "date":"January 26th-28th, 2018",
+        "schedule":"Schedule is not available at this time",
+        "scheduleURL":""
+    },
+    {
+        "name":"Gears Pro Circuit Mexico City Open",
+        "slug":"gears-pro-circuit-mexico-city-open-1",
         "date":"January 26th-28th, 2018",
         "schedule":"Schedule is not available at this time",
         "scheduleURL":""
